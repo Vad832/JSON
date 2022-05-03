@@ -1,1 +1,12 @@
-
+{
+  "summary": "Wrong spelling 'sklls.json' in GIT Homework 1 JSON in item #14",
+"steps to reproduce": [{
+  "open telegram channel '29_QA_Free_Channel'",
+  "find 'GIT Homework 1' post",
+  "pay attention to item #14 in JSON part" 
+}]
+"actual result": "spelling 'sklls.json'",
+"expected result": "spelling 'skills.json'",
+  "priority": "low",
+  "severity": "trivial"
+}
