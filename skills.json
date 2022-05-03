@@ -1,5 +1,5 @@
 {
-	"Skills": [
+	"Skills": [{
 "terminal linux",
 "javaScript",
 "postman",
@@ -7,6 +7,6 @@
 "sql",
 "theory of testing software",
 "client server architecture"
-  ]
+	}]
 }
 
